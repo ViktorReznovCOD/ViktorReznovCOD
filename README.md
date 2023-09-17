@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Desenvolvedor 
+Desenvolvedor Python 🐍
 
 ## Interesses
 

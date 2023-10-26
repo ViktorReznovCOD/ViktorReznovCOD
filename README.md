@@ -2,10 +2,11 @@
 
 ## Sobre Mim
 
-### 🐍 Desenvolvedor Python 
+### 🐍 Desenvolvedor
 
 ## Interesses
-
+- Python
+- C#
 Atualmente, estou focado em aprimorar minhas habilidades em ciência da computação, especialmente nas seguintes áreas:
 
 - Programação em Python
